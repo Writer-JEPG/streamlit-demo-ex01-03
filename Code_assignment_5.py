@@ -18,10 +18,6 @@ major = st.selectbox("Major", ["AI", "Computer Science", "Engineering",
 "Mathematics"])
 gpa = st.number_input("GPA (out of 4.0)", 0.0, 4.0, 3.0, step=0.1)
 hobby = st.radio("Favourite hobby", ["Reading", "Coding", "Sports", "Art"])
-Streamlit Assignment — Examples 01–03
-
-Page 1 of 6
-
 bio = st.text_area("Short bio (2–3 sentences)")
 ready = st.checkbox("I am ready to generate my card")
 # ── Reaction ──────────────────────────────────────────────────

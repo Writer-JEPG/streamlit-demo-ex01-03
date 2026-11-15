@@ -18,7 +18,7 @@ major = st.selectbox("Major", ["AI", "Computer Science", "Engineering",
 "Mathematics"])
 gpa = st.number_input("GPA (out of 4.0)", 0.0, 4.0, 3.0, step=0.1)
 hobby = st.radio("Favourite hobby", ["Reading", "Coding", "Sports", "Art"])
-Streamlit Assignment Examples 01–03
+"Streamlit Assignment _ Examples 01–03"
 
 Page 1 of 6
 
